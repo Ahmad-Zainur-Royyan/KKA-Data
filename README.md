@@ -1,8 +1,8 @@
 **Proyek Analisis & Visualisasi Nilai Siswa**
-**🌟 Ringkasan Proyek**
+*🌟 Ringkasan Proyek*
 Proyek ini berfokus pada pengolahan serta penyajian data nilai siswa menggunakan Python, khususnya dengan bantuan pustaka Pandas untuk manipulasi data dan Matplotlib/Seaborn untuk visualisasi. Dari proses tersebut diperoleh gambaran yang lebih jelas mengenai performa akademik siswa pada berbagai mata pelajaran.
 
-**📈 Temuan Utama dari Analisis Data**
+*📈 Temuan Utama dari Analisis Data*
 
 Mata Pelajaran dengan Rata-rata Tertinggi
 Matematika
@@ -16,7 +16,7 @@ Peran Visualisasi dalam Memahami Data
 ➤ Penggunaan grafik seperti bar chart dan boxplot sangat membantu dalam memudahkan interpretasi data numerik.
 ➤ Visualisasi memberikan gambaran cepat mengenai perbandingan nilai dan pola sebaran tanpa harus membaca angka-angka statistik secara detail.
 
-**💡 Refleksi & Pembelajaran**
+*💡 Refleksi & Pembelajaran*
 
 **Hal Baru yang Dipelajari**
 • Teknis: Mampu menggunakan Python (pandas, matplotlib, seaborn) untuk:
